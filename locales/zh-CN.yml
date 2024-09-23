@@ -1,4 +1,3 @@
----
 _lang_: "中文(简体)"
 headlineMisskey: "通过帖子连接在一起的网络"
 introMisskey: "欢迎！Misskey是一个开源的、去中心化的“微博客”服务。\n通过编写「帖文」来和大家分享你的以及你周围的事情吧！📡\n通过「回应」功能，可以让你快速地对大家的帖文表达反馈👍\n来探索新的世界吧！🚀"
@@ -1665,7 +1664,7 @@ _achievements:
     _bubbleGameDoubleExplodingHead:
       title: "两个🤯"
       description: "你合成出了2个游戏里最大的Emoji"
-      flavor: ""
+      flavor: "これくらいの　おべんとばこに　🤯　🤯　ちょっとつめて"
 _role:
   new: "创建角色"
   edit: "编辑角色"
